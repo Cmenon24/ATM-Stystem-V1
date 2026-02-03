@@ -1,0 +1,29 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+target/
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Data files (runtime generated)
+data/
+
+# Test data
+test-data/
+test-data-v2/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
